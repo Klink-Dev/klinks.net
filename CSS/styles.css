@@ -1,8 +1,17 @@
 
 .bodyMain{
+    
     background-color: #000;
     color: #fff;
     
+    
+}
+.bg-image{
+   max-width: 100%;
+    background-image: url(".././home_files/images/background%20image.jpg");
+    background-repeat: none;
+    width: 100%;
+    height: auto;
 }
 a.bodyMain:default{
     color: #ff0;
@@ -12,4 +21,14 @@ a.bodyMain:visited{
 }
 a.bodyMain:active{
     color: #c0ffc0;
+}
+.headerMain{
+    /*<font face="Final Frontier"><font color="#3366ff"><font size="+4">*/
+    
+}
+div{
+    max-width: 90%;
+    align-content: center;
+    text-align: center;
+    display: block;
 }
