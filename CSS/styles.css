@@ -1,0 +1,15 @@
+
+.bodyMain{
+    background-color: #000;
+    color: #fff;
+    
+}
+a.bodyMain:default{
+    color: #ff0;
+}
+a.bodyMain:visited{
+    color: #c0c0c0;
+}
+a.bodyMain:active{
+    color: #c0ffc0;
+}
