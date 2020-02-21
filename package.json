@@ -1,0 +1,24 @@
+{
+  "name": "klinks.net",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "jquery": "^3.4.1",
+    "normalize.css": "^8.0.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Klink-Dev/klinks.net.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Klink-Dev/klinks.net/issues"
+  },
+  "homepage": "https://github.com/Klink-Dev/klinks.net#readme"
+}
